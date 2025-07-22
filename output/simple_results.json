@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "extraction_date": "2025-07-22T04:04:17.270609",
+    "source_url": "http://www.expoegypt.gov.eg/exporters",
+    "total_companies": 10
+  },
+  "companies": [
+    {
+      "id": "company_1",
+      "company_name_arabic": "الدلتا للإستيراد والتصدير",
+      "contact_info": {
+        "email": "eldeltams@gmail.com",
+        "website": "\twww.eldeltams.com",
+        "address": "شارع التحرير - أبو جنشو - إبشواي \n\t\t\t\t\t\tمحافظة الفيوم"
+      },
+      "business_info": {
+        "sector": "الأثاث"
+      },
+      "extracted_at": "2025-07-22T04:04:17.264366"
+    },
+    {
+      "id": "company_2",
+      "company_name_arabic": "السعداوي للإستيراد والتصدير",
+      "contact_info": {
+        "phone": "0846314195",
+        "email": "seadawy@yahoo.com",
+        "website": "http://www.seadawyherbs.com/",
+        "address": "2 شارع طه حسين ، جردوا ،  الفيوم ، مصر. \n\t\t\t\t\t\tمحافظة الفيوم"
+      },
+      "business_info": {
+        "sector": "الحاصلات الزراعية"
+      },
+      "extracted_at": "2025-07-22T04:04:17.265001"
+    },
+    {
+      "id": "company_3",
+      "company_name_arabic": "ايجي بورت للتخليص الجمركي والاستيراد والتصدير",
+      "contact_info": {
+        "email": "258_admin@egyptexportgate.com",
+        "address": "شطا - مدينة الأثاث - قطعة رقم 1 ، 2 ، 51  \n\t\t\t\t\t\tمحافظة دمياط"
+      },
+      "business_info": {
+        "sector": "الأثاث"
+      },
+      "extracted_at": "2025-07-22T04:04:17.265588"
+    },
+    {
+      "id": "company_4",
+      "company_name_arabic": "نورلين للاستيراد وتصدير الكتان ومشتقاته",
+      "contact_info": {
+        "phone": "00201123677791",
+        "email": "260@expoegypt.com",
+        "website": "http://www.noorlin.com",
+        "address": "طنطا – العجيزى – ش عمر بن الخطاب رقم 2 \n\t\t\t\t\t\tمحافظة الغربية"
+      },
+      "business_info": {
+        "sector": "الغزل والمنسوجات"
+      },
+      "extracted_at": "2025-07-22T04:04:17.266160"
+    },
+    {
+      "id": "company_5",
+      "company_name_arabic": "اي بي سي",
+      "contact_info": {
+        "email": "268_admin@egyptexportgate.com",
+        "address": "دمياط – مول الواحة    \n\t\t\t\t\t\tمحافظة دمياط"
+      },
+      "business_info": {
+        "sector": "الصناعات الغذائية"
+      },
+      "extracted_at": "2025-07-22T04:04:17.266706"
+    },
+    {
+      "id": "company_6",
+      "company_name_arabic": "النور للأثاث",
+      "contact_info": {
+        "email": "269_admin@egyptexportgate.com",
+        "address": "دمياط -البصارطة - بجوار مدرسة الشهيد رضوان  \n\t\t\t\t\t\tمحافظة دمياط"
+      },
+      "business_info": {
+        "sector": "الأثاث"
+      },
+      "extracted_at": "2025-07-22T04:04:17.267241"
+    },
+    {
+      "id": "company_7",
+      "company_name_arabic": "طنطا للزيوت والصابون",
+      "contact_info": {
+        "phone": "0020403291225",
+        "email": "280@expoegypt.com",
+        "website": "https://tantaoilsoapwater.site123.me/",
+        "address": "15- ش الشهيد مصطفى ابو زهره \n\t\t\t\t\t\tمحافظة الغربية"
+      },
+      "business_info": {
+        "sector": "الصناعات الغذائية"
+      },
+      "extracted_at": "2025-07-22T04:04:17.267779"
+    },
+    {
+      "id": "company_8",
+      "company_name_arabic": "أعلاف الإيطالية",
+      "contact_info": {
+        "phone": "01062283456 - 01229751425 - 01115292555",
+        "address": "شارع أحمد عرابي - التل الكبير - الإسماعيلية \n\t\t\t\t\t\tمحافظة الإسماعيلية"
+      },
+      "business_info": {
+        "sector": "الصناعات الكيماوية والأسمدة"
+      },
+      "extracted_at": "2025-07-22T04:04:17.268337"
+    },
+    {
+      "id": "company_9",
+      "company_name_arabic": "الكترو بلاست",
+      "contact_info": {
+        "email": "info@electroplast.net",
+        "website": "http://www.electroplast.net/",
+        "address": "محافظة السويس"
+      },
+      "business_info": {
+        "sector": "الأثاث"
+      },
+      "extracted_at": "2025-07-22T04:04:17.269473"
+    },
+    {
+      "id": "company_10",
+      "company_name_arabic": "جرين فارم للحاصلات الزراعية",
+      "contact_info": {
+        "phone": "0020403328482",
+        "email": "greenfarminternational@yahoo.com\r\n",
+        "website": "http://www.greenfarmegypt.com",
+        "address": "211 ش الجيش - برج العين طنطا \n\t\t\t\t\t\tمحافظة الغربية"
+      },
+      "business_info": {
+        "sector": "الحاصلات الزراعية"
+      },
+      "extracted_at": "2025-07-22T04:04:17.270601"
+    }
+  ]
+}

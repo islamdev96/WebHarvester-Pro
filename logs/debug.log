@@ -1,0 +1,5 @@
+2025-07-22 02:44:48,969 - DebugExtractor - INFO - Found 10 companies using selector: .co_node
+2025-07-22 02:44:48,974 - DebugExtractor - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 02:44:48,982 - DebugExtractor - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 02:44:48,983 - DebugExtractor - INFO - Found 10 potential company containers on page
+2025-07-22 02:44:49,004 - DebugExtractor - INFO - Successfully extracted 0 companies from page
