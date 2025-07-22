@@ -6798,3 +6798,440 @@
 2025-07-22 05:13:01,934 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
 2025-07-22 05:13:01,944 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
 2025-07-22 05:13:01,945 - EgyptExportersScraper - INFO - Extracted 10 companies from page 429
+2025-07-22 05:13:05,868 - EgyptExportersScraper - INFO - Scraping page 430/476: http://www.expoegypt.gov.eg/exporters?page=210
+2025-07-22 05:13:05,869 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=210 (Attempt 1/4)
+2025-07-22 05:13:06,369 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=210 (Status: 200)
+2025-07-22 05:13:06,495 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:06,525 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:06,551 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:06,552 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:06,596 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:06,597 - EgyptExportersScraper - INFO - Extracted 10 companies from page 430
+2025-07-22 05:13:10,122 - EgyptExportersScraper - INFO - Scraping page 431/476: http://www.expoegypt.gov.eg/exporters?page=211
+2025-07-22 05:13:10,126 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=211 (Attempt 1/4)
+2025-07-22 05:13:10,599 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=211 (Status: 200)
+2025-07-22 05:13:10,719 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:10,729 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:10,746 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:10,747 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:10,782 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:10,784 - EgyptExportersScraper - INFO - Extracted 10 companies from page 431
+2025-07-22 05:13:13,457 - EgyptExportersScraper - INFO - Scraping page 432/476: http://www.expoegypt.gov.eg/exporters?page=212
+2025-07-22 05:13:13,457 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=212 (Attempt 1/4)
+2025-07-22 05:13:13,949 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=212 (Status: 200)
+2025-07-22 05:13:13,980 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:13,984 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:13,990 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:13,990 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:14,005 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:14,005 - EgyptExportersScraper - INFO - Extracted 10 companies from page 432
+2025-07-22 05:13:17,668 - EgyptExportersScraper - INFO - Scraping page 433/476: http://www.expoegypt.gov.eg/exporters?page=256
+2025-07-22 05:13:17,669 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=256 (Attempt 1/4)
+2025-07-22 05:13:18,120 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=256 (Status: 200)
+2025-07-22 05:13:18,150 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:18,156 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:18,162 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:18,162 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:18,172 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:18,172 - EgyptExportersScraper - INFO - Extracted 10 companies from page 433
+2025-07-22 05:13:21,580 - EgyptExportersScraper - INFO - Scraping page 434/476: http://www.expoegypt.gov.eg/exporters?page=255
+2025-07-22 05:13:21,580 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=255 (Attempt 1/4)
+2025-07-22 05:13:22,037 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=255 (Status: 200)
+2025-07-22 05:13:22,072 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:22,076 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:22,082 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:22,082 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:22,093 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:22,093 - EgyptExportersScraper - INFO - Extracted 10 companies from page 434
+2025-07-22 05:13:24,663 - EgyptExportersScraper - INFO - Scraping page 435/476: http://www.expoegypt.gov.eg/exporters?page=254
+2025-07-22 05:13:24,665 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=254 (Attempt 1/4)
+2025-07-22 05:13:25,139 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=254 (Status: 200)
+2025-07-22 05:13:25,186 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:25,194 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:25,205 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:25,206 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:25,222 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:25,222 - EgyptExportersScraper - INFO - Extracted 10 companies from page 435
+2025-07-22 05:13:28,926 - EgyptExportersScraper - INFO - Scraping page 436/476: http://www.expoegypt.gov.eg/exporters?page=213
+2025-07-22 05:13:28,927 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=213 (Attempt 1/4)
+2025-07-22 05:13:29,390 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=213 (Status: 200)
+2025-07-22 05:13:29,503 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:29,515 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:29,532 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:29,533 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:29,566 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:29,567 - EgyptExportersScraper - INFO - Extracted 10 companies from page 436
+2025-07-22 05:13:33,770 - EgyptExportersScraper - INFO - Scraping page 437/476: http://www.expoegypt.gov.eg/exporters?page=214
+2025-07-22 05:13:33,771 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=214 (Attempt 1/4)
+2025-07-22 05:13:34,227 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=214 (Status: 200)
+2025-07-22 05:13:34,272 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:34,276 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:34,283 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:34,284 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:34,295 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:34,295 - EgyptExportersScraper - INFO - Extracted 10 companies from page 437
+2025-07-22 05:13:37,531 - EgyptExportersScraper - INFO - Scraping page 438/476: http://www.expoegypt.gov.eg/exporters?page=215
+2025-07-22 05:13:37,531 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=215 (Attempt 1/4)
+2025-07-22 05:13:37,979 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=215 (Status: 200)
+2025-07-22 05:13:38,072 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:38,087 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:38,105 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:38,106 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:38,134 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:38,134 - EgyptExportersScraper - INFO - Extracted 10 companies from page 438
+2025-07-22 05:13:41,083 - EgyptExportersScraper - INFO - Scraping page 439/476: http://www.expoegypt.gov.eg/exporters?page=253
+2025-07-22 05:13:41,084 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=253 (Attempt 1/4)
+2025-07-22 05:13:41,540 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=253 (Status: 200)
+2025-07-22 05:13:41,578 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:41,582 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:41,588 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:41,588 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:41,599 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:41,599 - EgyptExportersScraper - INFO - Extracted 10 companies from page 439
+2025-07-22 05:13:46,353 - EgyptExportersScraper - INFO - Scraping page 440/476: http://www.expoegypt.gov.eg/exporters?page=252
+2025-07-22 05:13:46,356 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=252 (Attempt 1/4)
+2025-07-22 05:13:47,013 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=252 (Status: 200)
+2025-07-22 05:13:47,112 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:47,177 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:47,266 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:47,310 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:47,416 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:47,429 - EgyptExportersScraper - INFO - Extracted 10 companies from page 440
+2025-07-22 05:13:51,006 - EgyptExportersScraper - INFO - Scraping page 441/476: http://www.expoegypt.gov.eg/exporters?page=251
+2025-07-22 05:13:51,006 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=251 (Attempt 1/4)
+2025-07-22 05:13:51,475 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=251 (Status: 200)
+2025-07-22 05:13:51,555 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:51,567 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:51,578 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:51,579 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:51,604 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:51,605 - EgyptExportersScraper - INFO - Extracted 10 companies from page 441
+2025-07-22 05:13:53,827 - EgyptExportersScraper - INFO - Scraping page 442/476: http://www.expoegypt.gov.eg/exporters?page=216
+2025-07-22 05:13:53,827 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=216 (Attempt 1/4)
+2025-07-22 05:13:54,294 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=216 (Status: 200)
+2025-07-22 05:13:54,326 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:54,330 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:54,338 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:54,338 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:54,350 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:54,351 - EgyptExportersScraper - INFO - Extracted 10 companies from page 442
+2025-07-22 05:13:57,913 - EgyptExportersScraper - INFO - Scraping page 443/476: http://www.expoegypt.gov.eg/exporters?page=217
+2025-07-22 05:13:57,915 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=217 (Attempt 1/4)
+2025-07-22 05:13:58,389 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=217 (Status: 200)
+2025-07-22 05:13:58,438 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:13:58,443 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:13:58,454 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:13:58,454 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:13:58,466 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:13:58,467 - EgyptExportersScraper - INFO - Extracted 10 companies from page 443
+2025-07-22 05:14:01,768 - EgyptExportersScraper - INFO - Scraping page 444/476: http://www.expoegypt.gov.eg/exporters?page=218
+2025-07-22 05:14:01,769 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=218 (Attempt 1/4)
+2025-07-22 05:14:02,245 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=218 (Status: 200)
+2025-07-22 05:14:02,280 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:02,285 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:02,292 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:02,293 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:02,304 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:02,305 - EgyptExportersScraper - INFO - Extracted 10 companies from page 444
+2025-07-22 05:14:05,186 - EgyptExportersScraper - INFO - Scraping page 445/476: http://www.expoegypt.gov.eg/exporters?page=250
+2025-07-22 05:14:05,186 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=250 (Attempt 1/4)
+2025-07-22 05:14:05,651 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=250 (Status: 200)
+2025-07-22 05:14:05,697 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:05,702 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:05,708 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:05,709 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:05,719 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:05,720 - EgyptExportersScraper - INFO - Extracted 10 companies from page 445
+2025-07-22 05:14:09,485 - EgyptExportersScraper - INFO - Scraping page 446/476: http://www.expoegypt.gov.eg/exporters?page=249
+2025-07-22 05:14:09,485 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=249 (Attempt 1/4)
+2025-07-22 05:14:09,933 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=249 (Status: 200)
+2025-07-22 05:14:09,963 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:09,970 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:09,978 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:09,978 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:09,989 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:09,990 - EgyptExportersScraper - INFO - Extracted 10 companies from page 446
+2025-07-22 05:14:13,347 - EgyptExportersScraper - INFO - Scraping page 447/476: http://www.expoegypt.gov.eg/exporters?page=248
+2025-07-22 05:14:13,348 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=248 (Attempt 1/4)
+2025-07-22 05:14:13,814 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=248 (Status: 200)
+2025-07-22 05:14:13,851 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:13,857 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:13,871 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:13,872 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:13,896 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:13,897 - EgyptExportersScraper - INFO - Extracted 10 companies from page 447
+2025-07-22 05:14:16,296 - EgyptExportersScraper - INFO - Scraping page 448/476: http://www.expoegypt.gov.eg/exporters?page=219
+2025-07-22 05:14:16,297 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=219 (Attempt 1/4)
+2025-07-22 05:14:16,775 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=219 (Status: 200)
+2025-07-22 05:14:16,886 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:16,890 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:16,895 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:16,895 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:16,908 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:16,908 - EgyptExportersScraper - INFO - Extracted 10 companies from page 448
+2025-07-22 05:14:19,925 - EgyptExportersScraper - INFO - Scraping page 449/476: http://www.expoegypt.gov.eg/exporters?page=220
+2025-07-22 05:14:19,926 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=220 (Attempt 1/4)
+2025-07-22 05:14:20,384 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=220 (Status: 200)
+2025-07-22 05:14:20,418 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:20,422 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:20,428 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:20,429 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:20,442 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:20,442 - EgyptExportersScraper - INFO - Extracted 10 companies from page 449
+2025-07-22 05:14:23,436 - EgyptExportersScraper - INFO - Scraping page 450/476: http://www.expoegypt.gov.eg/exporters?page=221
+2025-07-22 05:14:23,437 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=221 (Attempt 1/4)
+2025-07-22 05:14:23,891 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=221 (Status: 200)
+2025-07-22 05:14:23,944 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:23,956 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:23,965 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:23,966 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:23,983 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:23,984 - EgyptExportersScraper - INFO - Extracted 10 companies from page 450
+2025-07-22 05:14:27,217 - EgyptExportersScraper - INFO - Scraping page 451/476: http://www.expoegypt.gov.eg/exporters?page=247
+2025-07-22 05:14:27,218 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=247 (Attempt 1/4)
+2025-07-22 05:14:27,673 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=247 (Status: 200)
+2025-07-22 05:14:27,726 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:27,731 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:27,737 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:27,738 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:27,751 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:27,751 - EgyptExportersScraper - INFO - Extracted 10 companies from page 451
+2025-07-22 05:14:30,694 - EgyptExportersScraper - INFO - Scraping page 452/476: http://www.expoegypt.gov.eg/exporters?page=246
+2025-07-22 05:14:30,695 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=246 (Attempt 1/4)
+2025-07-22 05:14:31,164 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=246 (Status: 200)
+2025-07-22 05:14:31,203 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:31,206 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:31,212 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:31,212 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:31,230 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:31,231 - EgyptExportersScraper - INFO - Extracted 10 companies from page 452
+2025-07-22 05:14:36,035 - EgyptExportersScraper - INFO - Scraping page 453/476: http://www.expoegypt.gov.eg/exporters?page=245
+2025-07-22 05:14:36,036 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=245 (Attempt 1/4)
+2025-07-22 05:14:36,616 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=245 (Status: 200)
+2025-07-22 05:14:36,685 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:36,692 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:36,700 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:36,700 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:36,716 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:36,716 - EgyptExportersScraper - INFO - Extracted 10 companies from page 453
+2025-07-22 05:14:39,714 - EgyptExportersScraper - INFO - Scraping page 454/476: http://www.expoegypt.gov.eg/exporters?page=222
+2025-07-22 05:14:39,715 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=222 (Attempt 1/4)
+2025-07-22 05:14:40,207 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=222 (Status: 200)
+2025-07-22 05:14:40,263 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:40,267 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:40,273 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:40,273 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:40,286 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:40,286 - EgyptExportersScraper - INFO - Extracted 10 companies from page 454
+2025-07-22 05:14:44,235 - EgyptExportersScraper - INFO - Scraping page 455/476: http://www.expoegypt.gov.eg/exporters?page=223
+2025-07-22 05:14:44,235 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=223 (Attempt 1/4)
+2025-07-22 05:14:44,701 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=223 (Status: 200)
+2025-07-22 05:14:44,737 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:44,742 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:44,749 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:44,750 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:44,760 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:44,761 - EgyptExportersScraper - INFO - Extracted 10 companies from page 455
+2025-07-22 05:14:49,333 - EgyptExportersScraper - INFO - Scraping page 456/476: http://www.expoegypt.gov.eg/exporters?page=224
+2025-07-22 05:14:49,334 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=224 (Attempt 1/4)
+2025-07-22 05:14:49,845 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=224 (Status: 200)
+2025-07-22 05:14:49,891 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:49,898 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:49,909 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:49,910 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:49,923 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:49,923 - EgyptExportersScraper - INFO - Extracted 10 companies from page 456
+2025-07-22 05:14:52,875 - EgyptExportersScraper - INFO - Scraping page 457/476: http://www.expoegypt.gov.eg/exporters?page=244
+2025-07-22 05:14:52,876 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=244 (Attempt 1/4)
+2025-07-22 05:14:53,361 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=244 (Status: 200)
+2025-07-22 05:14:53,403 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:53,407 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:53,412 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:53,413 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:53,431 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:53,431 - EgyptExportersScraper - INFO - Extracted 10 companies from page 457
+2025-07-22 05:14:56,804 - EgyptExportersScraper - INFO - Scraping page 458/476: http://www.expoegypt.gov.eg/exporters?page=243
+2025-07-22 05:14:56,805 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=243 (Attempt 1/4)
+2025-07-22 05:14:57,267 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=243 (Status: 200)
+2025-07-22 05:14:57,318 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:14:57,322 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:14:57,327 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:14:57,328 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:14:57,341 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:14:57,341 - EgyptExportersScraper - INFO - Extracted 10 companies from page 458
+2025-07-22 05:15:02,179 - EgyptExportersScraper - INFO - Scraping page 459/476: http://www.expoegypt.gov.eg/exporters?page=242
+2025-07-22 05:15:02,180 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=242 (Attempt 1/4)
+2025-07-22 05:15:02,712 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=242 (Status: 200)
+2025-07-22 05:15:02,745 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:02,750 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:02,755 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:02,755 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:02,768 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:02,769 - EgyptExportersScraper - INFO - Extracted 10 companies from page 459
+2025-07-22 05:15:05,877 - EgyptExportersScraper - INFO - Scraping page 460/476: http://www.expoegypt.gov.eg/exporters?page=225
+2025-07-22 05:15:05,878 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=225 (Attempt 1/4)
+2025-07-22 05:15:06,333 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=225 (Status: 200)
+2025-07-22 05:15:06,407 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:06,411 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:06,419 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:06,419 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:06,438 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:06,438 - EgyptExportersScraper - INFO - Extracted 10 companies from page 460
+2025-07-22 05:15:09,472 - EgyptExportersScraper - INFO - Scraping page 461/476: http://www.expoegypt.gov.eg/exporters?page=226
+2025-07-22 05:15:09,472 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=226 (Attempt 1/4)
+2025-07-22 05:15:09,944 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=226 (Status: 200)
+2025-07-22 05:15:10,058 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:10,071 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:10,094 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:10,094 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:10,113 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:10,113 - EgyptExportersScraper - INFO - Extracted 10 companies from page 461
+2025-07-22 05:15:14,927 - EgyptExportersScraper - INFO - Scraping page 462/476: http://www.expoegypt.gov.eg/exporters?page=227
+2025-07-22 05:15:14,927 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=227 (Attempt 1/4)
+2025-07-22 05:15:15,519 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=227 (Status: 200)
+2025-07-22 05:15:15,552 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:15,555 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:15,565 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:15,565 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:15,581 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:15,582 - EgyptExportersScraper - INFO - Extracted 10 companies from page 462
+2025-07-22 05:15:17,799 - EgyptExportersScraper - INFO - Scraping page 463/476: http://www.expoegypt.gov.eg/exporters?page=241
+2025-07-22 05:15:17,799 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=241 (Attempt 1/4)
+2025-07-22 05:15:18,262 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=241 (Status: 200)
+2025-07-22 05:15:18,295 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:18,305 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:18,319 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:18,320 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:18,343 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:18,344 - EgyptExportersScraper - INFO - Extracted 10 companies from page 463
+2025-07-22 05:15:20,671 - EgyptExportersScraper - INFO - Scraping page 464/476: http://www.expoegypt.gov.eg/exporters?page=240
+2025-07-22 05:15:20,671 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=240 (Attempt 1/4)
+2025-07-22 05:15:21,124 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=240 (Status: 200)
+2025-07-22 05:15:21,156 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:21,161 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:21,171 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:21,172 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:21,191 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:21,192 - EgyptExportersScraper - INFO - Extracted 10 companies from page 464
+2025-07-22 05:15:25,351 - EgyptExportersScraper - INFO - Scraping page 465/476: http://www.expoegypt.gov.eg/exporters?page=239
+2025-07-22 05:15:25,352 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=239 (Attempt 1/4)
+2025-07-22 05:15:25,802 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=239 (Status: 200)
+2025-07-22 05:15:25,833 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:25,837 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:25,846 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:25,846 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:25,857 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:25,858 - EgyptExportersScraper - INFO - Extracted 10 companies from page 465
+2025-07-22 05:15:28,070 - EgyptExportersScraper - INFO - Scraping page 466/476: http://www.expoegypt.gov.eg/exporters?page=228
+2025-07-22 05:15:28,071 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=228 (Attempt 1/4)
+2025-07-22 05:15:28,535 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=228 (Status: 200)
+2025-07-22 05:15:28,568 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:28,572 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:28,580 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:28,580 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:28,593 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:28,594 - EgyptExportersScraper - INFO - Extracted 10 companies from page 466
+2025-07-22 05:15:32,351 - EgyptExportersScraper - INFO - Scraping page 467/476: http://www.expoegypt.gov.eg/exporters?page=229
+2025-07-22 05:15:32,352 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=229 (Attempt 1/4)
+2025-07-22 05:15:32,800 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=229 (Status: 200)
+2025-07-22 05:15:32,834 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:32,838 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:32,844 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:32,845 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:32,858 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:32,858 - EgyptExportersScraper - INFO - Extracted 10 companies from page 467
+2025-07-22 05:15:36,756 - EgyptExportersScraper - INFO - Scraping page 468/476: http://www.expoegypt.gov.eg/exporters?page=230
+2025-07-22 05:15:36,757 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=230 (Attempt 1/4)
+2025-07-22 05:15:37,226 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=230 (Status: 200)
+2025-07-22 05:15:37,268 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:37,273 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:37,284 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:37,285 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:37,301 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:37,301 - EgyptExportersScraper - INFO - Extracted 10 companies from page 468
+2025-07-22 05:15:40,079 - EgyptExportersScraper - INFO - Scraping page 469/476: http://www.expoegypt.gov.eg/exporters?page=238
+2025-07-22 05:15:40,080 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=238 (Attempt 1/4)
+2025-07-22 05:15:40,528 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=238 (Status: 200)
+2025-07-22 05:15:40,582 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:40,587 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:40,593 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:40,594 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:40,606 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:40,607 - EgyptExportersScraper - INFO - Extracted 10 companies from page 469
+2025-07-22 05:15:44,803 - EgyptExportersScraper - INFO - Scraping page 470/476: http://www.expoegypt.gov.eg/exporters?page=237
+2025-07-22 05:15:44,804 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=237 (Attempt 1/4)
+2025-07-22 05:15:45,263 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=237 (Status: 200)
+2025-07-22 05:15:45,298 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:45,307 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:45,316 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:45,317 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:45,330 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:45,330 - EgyptExportersScraper - INFO - Extracted 10 companies from page 470
+2025-07-22 05:15:47,668 - EgyptExportersScraper - INFO - Scraping page 471/476: http://www.expoegypt.gov.eg/exporters?page=236
+2025-07-22 05:15:47,668 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=236 (Attempt 1/4)
+2025-07-22 05:15:48,160 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=236 (Status: 200)
+2025-07-22 05:15:48,195 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:48,205 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:48,213 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:48,214 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:48,227 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:48,228 - EgyptExportersScraper - INFO - Extracted 10 companies from page 471
+2025-07-22 05:15:52,617 - EgyptExportersScraper - INFO - Scraping page 472/476: http://www.expoegypt.gov.eg/exporters?page=231
+2025-07-22 05:15:52,618 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=231 (Attempt 1/4)
+2025-07-22 05:15:53,065 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=231 (Status: 200)
+2025-07-22 05:15:53,107 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:53,113 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:53,121 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:53,121 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:53,138 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:53,139 - EgyptExportersScraper - INFO - Extracted 10 companies from page 472
+2025-07-22 05:15:57,818 - EgyptExportersScraper - INFO - Scraping page 473/476: http://www.expoegypt.gov.eg/exporters?page=232
+2025-07-22 05:15:57,818 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=232 (Attempt 1/4)
+2025-07-22 05:15:58,433 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=232 (Status: 200)
+2025-07-22 05:15:58,548 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:15:58,559 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:15:58,567 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:15:58,567 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:15:58,596 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:15:58,597 - EgyptExportersScraper - INFO - Extracted 10 companies from page 473
+2025-07-22 05:16:02,322 - EgyptExportersScraper - INFO - Scraping page 474/476: http://www.expoegypt.gov.eg/exporters?page=233
+2025-07-22 05:16:02,323 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=233 (Attempt 1/4)
+2025-07-22 05:16:02,797 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=233 (Status: 200)
+2025-07-22 05:16:02,831 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:16:02,834 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:16:02,840 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:16:02,840 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:16:02,853 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:16:02,853 - EgyptExportersScraper - INFO - Extracted 10 companies from page 474
+2025-07-22 05:16:06,743 - EgyptExportersScraper - INFO - Scraping page 475/476: http://www.expoegypt.gov.eg/exporters?page=235
+2025-07-22 05:16:06,744 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=235 (Attempt 1/4)
+2025-07-22 05:16:07,201 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=235 (Status: 200)
+2025-07-22 05:16:07,235 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:16:07,240 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:16:07,247 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:16:07,247 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:16:07,265 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:16:07,266 - EgyptExportersScraper - INFO - Extracted 10 companies from page 475
+2025-07-22 05:16:09,473 - EgyptExportersScraper - INFO - Scraping page 476/476: http://www.expoegypt.gov.eg/exporters?page=234
+2025-07-22 05:16:09,474 - EgyptExportersScraper - INFO - Fetching page: http://www.expoegypt.gov.eg/exporters?page=234 (Attempt 1/4)
+2025-07-22 05:16:09,938 - EgyptExportersScraper - INFO - Successfully fetched page: http://www.expoegypt.gov.eg/exporters?page=234 (Status: 200)
+2025-07-22 05:16:09,968 - EgyptExportersScraper - INFO - Found 10 companies using selector: .co_node
+2025-07-22 05:16:09,972 - EgyptExportersScraper - INFO - Found 10 companies using selector: div.co_node
+2025-07-22 05:16:09,978 - EgyptExportersScraper - INFO - Found 10 companies using selector: .exporter_directory .co_node
+2025-07-22 05:16:09,978 - EgyptExportersScraper - INFO - Found 10 potential company containers on page
+2025-07-22 05:16:09,990 - EgyptExportersScraper - INFO - Successfully extracted 10 companies from page
+2025-07-22 05:16:09,990 - EgyptExportersScraper - INFO - Extracted 10 companies from page 476
+2025-07-22 05:16:09,990 - EgyptExportersScraper - INFO - Processing 4729 extracted companies...
+2025-07-22 05:16:10,068 - EgyptExportersScraper - INFO - Cleaned 4729 companies from 4729 raw extractions
+2025-07-22 05:16:10,069 - EgyptExportersScraper - INFO - Cleaned data: 4729 valid companies
+2025-07-22 05:16:10,081 - EgyptExportersScraper - INFO - Removed 114 duplicate companies. 4615 unique companies remain.
+2025-07-22 05:16:10,082 - EgyptExportersScraper - INFO - After duplicate removal: 4615 unique companies
+2025-07-22 05:16:10,089 - EgyptExportersScraper - INFO - Data quality validation completed. Completeness score: 83.98%
+2025-07-22 05:16:10,090 - EgyptExportersScraper - INFO - Data quality score: 83.98%
+2025-07-22 05:16:10,090 - EgyptExportersScraper - INFO - Converted 4615 companies to JSON format
+2025-07-22 05:16:10,091 - EgyptExportersScraper - ERROR - Company 0: Missing required key 'id'
+2025-07-22 05:16:10,091 - EgyptExportersScraper - ERROR - JSON validation failed, not saving file
+2025-07-22 05:16:10,091 - EgyptExportersScraper - ERROR - Failed to save data to file
+2025-07-22 05:16:10,094 - EgyptExportersScraper - INFO - Scraping completed. Extracted 4729 companies from 476 pages
+2025-07-22 05:16:10,095 - EgyptExportersScraper - INFO - WebScraper session closed
+2025-07-22 05:16:10,095 - EgyptExportersScraper - INFO - Resources cleaned up successfully
